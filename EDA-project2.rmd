@@ -4,7 +4,7 @@ author: "Miguel Porro"
 date: "October 22, 2018"
 output: html_document
 ---
-# Exploratory Data Analysis Project 2 (JHU) Coursera
+## Exploratory Data Analysis Project 2 (JHU) Coursera
 
 ```{r setup,echo=FALSE}
 # Download archive file, if it does not exist
